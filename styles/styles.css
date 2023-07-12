@@ -17,6 +17,15 @@ font-weight: 700;
 padding: 15px 35px;
 
 }
+.section-title{
+
+    ccolor: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    }
 nav {
 
 display: flex;
@@ -54,7 +63,54 @@ nav{
 }
 .banner .flower-pic{
     
-    width: 400px;
+    width: 435px;
+height: 600px;
+}
+.banner-title{
+    max-width: 780px;
+    color: #272727;
+    font-size: 80px;
+font-weight: 800;
+margin-top: 5px;
+}
+.banner-description{
+max-width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 32px;
+}
+.about{  
+padding: 130px;
+border-radius: 10px;
+background: rgba(229, 84, 115, 0.05);
+margin: 130px 0;
+}
+.select-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+width: 594px;
+text-align: center;
+}
+.sign-up{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: #E55473;
+    border: 0;
+}
+.pngwing{
+
+    width: 318px;
+   height: 420px;
+  flex-shrink: 0;
+   align-items: self-end;
 }
  
 
